@@ -1,7 +1,21 @@
+# taken from https://medium.com/@delucmat/how-to-publish-bookdown-projects-with-github-actions-on-github-pages-6e6aecc7331e
+# don't push local rendered files in master branch
+_book/
+_bookdown_files/
+libs/
+**/*.bib
+**/*.html
+
+# ignore all html files except:
+!**/mathjax_header.html
+
+# R and Rstudio specific files
 .Rproj.user
 .Rhistory
 .RData
-_publish.R
-_book
-_bookdown_files
-rsconnect
+.Ruserdata
+
+#_publish.R
+#_book
+#_bookdown_files
+# rsconnect
