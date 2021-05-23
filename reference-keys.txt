@@ -5,6 +5,11 @@ icao
 easa
 iata
 eurocontrol
+flight-crew-licensing
+rules-of-the-air
+terms-and-definitions
+rules-of-the-air-1
+general-rules
 literature
 methods
 applications
