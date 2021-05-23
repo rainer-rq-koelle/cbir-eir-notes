@@ -16,6 +16,8 @@ description: "Course notes from CBIR/EIR knowledge course. Typing stuff helps me
 
 Something I will edit once I see that the github action are configured correctly. :)
 
+More changes
+
 This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
 
 The **bookdown** package can be installed from CRAN or Github:
