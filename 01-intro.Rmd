@@ -1,21 +1,82 @@
-# Introduction {#intro}
+# Air Law {#airlaw}
 
-You can label chapter and section titles using `{#label}` after them, e.g., we can reference Chapter \@ref(intro). If you do not manually label them, there will be automatic labels anyway, e.g., Chapter \@ref(methods).
+## International law conventions agreements and organizations
 
-Figures and tables with captions will be placed in `figure` and `table` environments, respectively.
+### International Law
 
-```{r nice-fig, fig.cap='Here is a nice figure!', out.width='80%', fig.asp=.75, fig.align='center'}
-par(mar = c(4, 4, .1, .1))
-plot(pressure, type = 'b', pch = 19)
-```
+* no international law enforcement
+* States required to ratify agreed conventions into national law
 
-Reference a figure by its code chunk label with the `fig:` prefix, e.g., see Figure \@ref(fig:nice-fig). Similarly, you can reference tables generated from `knitr::kable()`, e.g., see Table \@ref(tab:nice-tab).
+THERE WAS MORE CHECK AND EXPAND
 
-```{r nice-tab, tidy=FALSE}
-knitr::kable(
-  head(iris, 20), caption = 'Here is a nice table!',
-  booktabs = TRUE
-)
-```
+### ICAO 
 
+International Civil Aviation Organisation
+
+* created in 194x, established after ratification
+* became specialised organisation of United Nations
+
+Organisation of ICAO
+
+* bodies ... air transport, air navigation, ...
+
+Freedomes of the air
+
+* elaborate on the various freedoms
+
+ICAO Annexes
+
+Annex
+Subject
+1
+Personnel Licensing (Getting a license is my Number 1 priority)
+2
+Rules of the Air (2 Sets of Rules, VFR and IFR)
+3
+Meteorological Services (3ºC/1000ft DALR or 1deg/100m)
+4
+Aeronautical Charts (4 Cardinal Points)
+5
+Dimensional Units (CRP 5)
+6
+Operation of Aircraft (DC6)
+7
+Nationality and Registration Marks (The League of Seven Nations)
+8
+Airworthiness (Looks like a propeller)
+9
+Facilitation (NEIN in German – Immigration)
+10
+Aeronautical Communications (100 for the Operator)
+11
+Air Traffic Control Services (1 to 1 Personal Services)
+12
+Search & Rescue (The one before Accident Investigation)
+13
+Accident Investigation (Unlucky for some)
+14
+Aerodromes (14 Aerodromes around Heathrow)
+15
+Aeronautical Information Services (Looks like IS)
+16
+Environmental Protection (16 Age of Consent, use protection)
+17
+Security (17ft security fence required)
+18
+Dangerous Goods (At 18 you can drink but it’s DANGEROUS to drive) 
+
+### EASA
+
+European Aviation Safety Agency
+
+### IATA
+
+International Air Transport Associated
+
+### EUROCONTROL
+
+European Organisation for the Safety of Air Navigation
+
+
+BOOKDOWN EXAMPLE FOR ADDING CITATIONS   
 You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
