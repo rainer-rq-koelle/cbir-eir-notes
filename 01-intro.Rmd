@@ -78,5 +78,106 @@ International Air Transport Associated
 European Organisation for the Safety of Air Navigation
 
 
+## Flight Crew Licensing
+
+"please refer to part FCL" :)
+
+## Rules of the Air
+
+### Terms and Definitions
+
+a good set / mix of definitions ranging from IFR/VFR IMC/VMC, services/units, controlled flight, aerodrome terms, airspace classes.
+
+IDEA: REWORK AND DEVELOP SUBSECTION TO ALIGN/DIFFERENTIATE BETTER.
+
+Note: Automatic dependent surveillance (ADS) is "emphasised" with introducing ADS agreement and contract at the beginning of the list of defintions.
+
+### Rules of the Air
+
+Applicability
+The rules of the air shall apply to aircraft bearing the nationality and registration marks  of  a  Contracting  State,  wherever  they  may  be,  to  the  extent  that  they  do  not  conflict  with  the  rules  published  by  the  State  having  jurisdiction  over  the  territory overflown.
+
+over high seas: (unless notified differently) appropriate ATS authority = as designated by the State assuming to provide services under a regional air navigation agreement.
+
+Compliance with the rules of the air    
+The  operation  of  an  aircraft  either  in  flight  or  on  the  movement  area  of  an  aerodrome shall be in compliance with the general rules and, in addition, when in flight, either with:a) the visual flight rules or b) the instrument flight rules
+
+Responsibility of pilot-in-command    
+The  pilot-in-command  of  an  aircraft  shall,  whether  manipulating  the  controls  or not, be responsible for the operation of the aircraft in accordance with the rules of the  air,      
+except   
+that  the  pilot-in-command  may  depart  from  these  rules  in  circumstances that render such departure absolutely necessary in the interests of safety.
+
+Preflight action for flights away from vicinity of aerodrome and all IFR
+- current weather reports and forecasts
+- fuel requirements    
+- alternate course of action, if flight cannot be completed as planned.
+
+Authority     
+The pilot-in-command of an aircraft shall have final authority as to the disposition of the aircraft while in command.
+
+No  person  whose  function  is  critical  to  the  safety  of  aviation  (safety-sensitive personnel)   shall   undertake   that   function   while   under   the   influence   of   any   psychoactive substance, by reason of which human performance is impaired.    
+No such person shall engage in any kind of problematic use of substances.
+
+
+#### General Rules
+
+AVODING COLLISIONS
+
+* proximity - no operations in such proximity as to create collision hazards
+* right-of-way - 
+    + right of way a/c to maintain heading and speed unless PIC collision avoidance
+    + a/c giving way: no passing over, under, in front, unless well clear and considering effect of wake turbulences
+    + head-on: both aircraft alter heading to the right
+    + converging (same level) a/c having the other on their right to give way ("Rechts-vor-Links") with the exception
+       + a) power-driven heavier-than-air aircraft shall give way to airships, gliders and balloons;
+       + b) airships shall give way to gliders and balloons;
+       + c) gliders shall give way to balloons;
+       + d)  power-driven  aircraft  shall  give  way  to  aircraft  which  are  seen  to  be  towing other aircraft or objects.
+    + overtaking: from behind within 70deg / no view of position lights at night, to the right and stay clear (climb, descent, same level) until entirely past and clear (including changes by the a/c overtaken)
+    + a/c in flight or on ground/water give way to a/c landing or in final stages of approach
+       + in case of simultaneous approaches: higher aircraft to give way to lower a/c
+       + power-driven a/c give way to gliders
+    + emergency landing
+    + taxiing aircraft give way to a/c taking off or about to take off
+    + surface movement: head on = stop, as appropriate of both to the right, converging: a/c from right has right of way/other give way, overtaking: a/c to be overtake has right of way, other to stay clear
+    
+FOMRATION FLYING
+
+* 1km  laterally  and  longitudinally  and  30m  vertically  from  the  flight  leader
+* no formation flight except by "pre-arrangement" among PICs
+
+TAXIING FLIGHTS
+
+An  aircraft  taxiing  on  the  manoeurvring  area  shall  stop  and  hold  at  all  runway-holding positions unless otherwise authorized by the aerodrome control tower.    
+An aircraft taxiing on the manoeuvring area shall stop and hold at all lighted stop bars and may proceed further when the lights are switched off
+
+LIGTHS 
+
+* in flight from sunset to sunrise or any other period prescribed by appropriate authority
+  + anti-collision lights intended to attract attention of other aircraft
+  + navigation lights indicated to signal the relative path of the aircraft
+  + no other lights if they are likely to be mistaken
+* moving aircraft on movement area shall dispaly navigation lights signalling relative path & no other lights if to be mistaken
+* unless stationary and adequately illuminated aircraft shall display lights that to indicate the extremeties\
+
+many clauses: basically operate anti-collision lights (attracting attention) at all times (outside sunset to sunrise) on movement area or in flight
+
+Lights can be switched off or lowered in intensity by pilot if
+* adversely affect the satisfactory performance of duties; or
+* subject an outside observer to harmful dazzle.
+
+
+MINIMUM HEIGHTS
+
+Except when necessary for take-off or landing, or except by permission from the appropriate  authority,  aircraft  shall  not  be  flown  over  the  congested  areas  of  cities,  towns  or  settlements  or  over  an  open-air  assembly  of  persons,  unless  at  such a height as will permit, in the event of an emergency arising, a landing to be made without undue hazard to persons or property on the surface.
+
+VFR
+* over the congested areas of cities, towns or settlements or over an open-air assembly, NOT less than 300 m (1000 ft) within a radius of 600 m of the highest obstable;
+* elsewhere other: NOT less than 150 m (500 ft) over ground/water
+
+IFR
+* except for take-off, landing, or specifically authorised, an IFR flight shall be flown not below the minimum flight altitude established, or - if such miniumum is not established -
+* over high terrain or in mountainous areas, at a level which is at least 600 m  (2.000  ft)  above  the  highest  obstacle  located  within  8  km  of  the  estimated position of the aircraft
+* Elsewhere than  as  specified  above,  at  a  level  which  is  at  least  300  m (1.000 ft) above the highest obstacle located within 8 km of the estimated position of the aircraft.
 BOOKDOWN EXAMPLE FOR ADDING CITATIONS   
 You can write citations, too. For example, we are using the **bookdown** package [@R-bookdown] in this sample book, which was built on top of R Markdown and **knitr** [@xie2015].
