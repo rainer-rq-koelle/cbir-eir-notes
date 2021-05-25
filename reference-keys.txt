@@ -10,6 +10,16 @@ rules-of-the-air
 terms-and-definitions
 rules-of-the-air-1
 general-rules
+signals
+distress-signals
+urgency-signals
+interception-signals
+warning-signals-for-unauthorised-aircraft-flying-in-or-about-to-enter-a-restricted-prohibited-or-danger-area
+signals-for-aerodrome-traffic
+marshalling-signals
+air-traffic-control-service
+clearances
+communications
 literature
 methods
 applications
