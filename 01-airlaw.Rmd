@@ -319,9 +319,223 @@ A  controlled  flight  shall,  except  when  landing  at  a  controlled  aerodro
 
 ### Communications
 
-to be continued.
+aircraft operated as controlled flight shall
+
+* maintain continuous air graound voice communiction watch on the appropriate communication channel of
+* establish two-way communication as necessary with
+the appropriate ATS authority in respect of aircraft forming part of aerodrome traffic at a controlled aerodrome (and elsewhere?)
+
+SELCAL or similar automatic signalling devices = satisfactory device to maintain air-ground voice communication watch
+
+Despite CPDLC, aircraft to maintain air-ground voice communication watch
 
 
+COMMUNICATION FAILURE
+
+in case of COM failure and/or failing to meet gen requirement, aircraft to comply with voice communication failure procedure of Annex 10, Vol II, AND 
+
+* shall attempt to establish communication with appropriate ATC unit using all other available means
+* within aerodrome traffic at controlled aerodrome: keep watch for instructions by visual signals
+
+in VMC, the aircraft shall
+
+* continue VMC
+* land at next suitabel aerodrome
+* report arrival by the most expeditious means to appropriate ATC unit
+* if considered advisable, complete an IFR flight if in IMC
+
+In IMC or when pilot of IFR flight considers it inadvisable to land at the nearest suitable aerodreom, the aricraft shall
+
+* unless otherwise prescribed on the basis of national air navigation agreement, in airspece where radar is not used, maintain the last assigned speed and level, or minimum flight altitude (if higher), for 20 minutes following the aircraft's failure to report its position over a compulsory reporting point and thereafter adjust level and speed in accordance with the filed flight plan.
+
+* in airspace where radar is used, maintain the last assigned speed and level, or minimum flight altitude - if higher - for a period of 7 minutes following
+* the time the last assigned level or minimum altitude is reached; or
+* the time the transponder is set to Code 7600; or
+* airfraft's failure to report its position over a compulsory reporting point
+* whichever is later - and thereafter adjust level and speed in accordance with the last filed flight plan.
+
+when being radar vectored or having been directed by ATC to proceed offset using RNAV without a specified limit, rejoin the current flight plan route no later than the next significant point, taking into consideration the applicable minimum flight altitude.
+
+proceed according to the current flight plan route to the appropriate navigation aid or fix serving the destination aerodrome and - when required to ensure compliance with e.) below - hold over this aid or fix until commencement of descent
+
+commence descent from NAV aid or fix - specified above d) - at, or as close as possible to, the expected approach time last received and acknowledged, or if no expected approach time has been received and acknowledged, at, or as close as possible to , the estimated time of arrival resulting from the current flight plan.
+
+complete a normal instrument approach procedure as specified for the designated navigation air or fix, and (g) land, if possible whtin 30 minutes after the estimated time of arrivale specified in (e) or the last acknowledged expected approach time - whichever is later.
+
+
+???
+A commander should transmit special aircraft observations when he encoutern
+
+* moderate turbulence, hail, or CB clouds during supersonic or transonic flight;
+* other conditions that the commander considers may effect the safety of other aircraft
+* severe turbulence or icing.
+
+
+### Visual Flight Rules
+
+TODO - check for figure or turn this into visual
+
+Except when operating as a Special VFR flight, VFR flights shall be conducted so that the aircraft is flown in conditions of visibility and distance from clouds equal or greater than those specified
+
+* at and above 3050m/10000ft AMSL, in airspace ABCDEFG, vis: 8 km, 1500 horizontally and 300m/1000ft vertically
+* below 3050m/10000ft and above 900m/3000ft AMSL or above 300m/1000ft above terrain - whichever is higher, in airspace ABCDEFG: vis: 5km, 1500m horizontally & 300m/1000ft vertically)
+* at and below 900m/3000ft AMSL, or 300m/100ft about terrain - whichever is higher
+  + in airspace ABCDE: vis 5km, 1500m horizontally, 300m/1000ft vertically
+  + in airspace FG  : vis 5km, clear of clouds and GND in sight
+  
+If TA is lower than 3050m/10000ft, FL 100
+
+Note: VMC minima for airspace A are given for guidance. They do not imply acceptance of VFR flights in Class A airspace.
+
+
+Except when a clearance is obtained by ATC, VFR flights shall not take off or land at an aerodrome within a control zone CTR, or enter the aerodrome traffic zone or traffic pattern
+
+* when ceiling is less than 450m/1500ft or
+* ground visibility less than 5km
+
+
+VFR flight between sunset and sunrise - or such other period between sunset and sunrise as may be prescribed by appropriate ATS authority - shall be operatored in accordance with the conditions prescribed by such authority.    
+Unless authorised by appropriate ATS authority, VFR flights shall NOT be operated
+
+* above FL200
+* at transonic and supersonic speeds
+
+Authorisation for VFR flights to operate above FL290 shall not be granted in areas where a vertical separation minimum of 300m/1000ft is applied above FL290, except when necessary for take-off or landing; or by permission from appropriate authority, a VFR flight shall NOT be flown
+
+* over congested areas of cities, towns, or settlements or over an open-air assembly or persons at a height less than 300m/1000ft above the highest obstacle within a radius of 600m;
+* elsewhere, at a height of less than 150m/500ft above ground or water.
+
+Except where otherwise indicated in ATC clearance or specified by appropriate ATS authority, VFR flights in level cruising flight when operated above 900m/3000ft from ground or water, or a higher data as specified by appropriate ATS authority, shall be conducted at the appropriate flight level.
+
+VFR flight shall comply with the provisions of ATC service
+* when operated whithin airspace classes B, C, and D
+* forming part of aerodrome traffic at controlled aerodromes, or
+* when operated as special VFR (SVFR).
+
+VFR flights operating within ... lalala ...shall maintain air-ground voice communication watch on he appropriate communication channel of, and report its position as necessary to, the air traffic services unit providing FIS.
+
+Notes: SECAL ok, voice watch even in CPDLC
+
+
+An aircraft operated in accordance with VFR rules which wishes to change to compliance with IFR rules shall
+
+* if a flight plan was submitted, communicate the necessary changes to be effected to its current flight plan; or
+* when so required, submit a flight plan to the appropriate air traffic services unit and obtain clearance prior to proceeding IFR when in controlled airspace.
+
+### Instrument Flight Rules (IFR)
+
+aircraft shall be equipped with suitable instruments and with navigation equipment appropriate to the route to be flown.
+
+MINIMUM LEVELS
+
+Except for take-off or landing, or except when specifically authorised by appropriate authority, an IFR flight shall be flown at a level which is not below the minimum flight altitude established by the State whose territory is overflown, or, where no such minimum flight altitude has been established
+
+* over high terrain or in mountainous areas, at a level which is at least 600m/2000ft above the highest obstacle located within 8km of the estimated position of the aircraft;
+* elsewhere at a level which is at least 300m/1000ft above the higherst obstacle located within 8km of the estimated aircraft position.
+
+The estimated aircraft position will take account of the navigational accuracy .. nav facilities and aircraft 
+
+CHANGE IFR to VFR
+
+IFR to VFR:  if flight plan was submitted, notify appropriate ATS unit specifically that IFR flight is cancelled and communicate thereto the changes to be made to its current flight plan.
+
+aircraft under IFR in VMC it shall not cancel its IFR flight unless it is anticipated and intended that the flight will be continued for a reasonable period of time in uniterrupted VMC.
+
+IFR WITHIN CONTROLLED AIRSPACE
+
+IFR flight shall comply with the provisions of ATC service when operated in controlled airspace.
+
+IFR in controlled airspace shall be flown at cruising level or - if authorised to employ cruise climb techniques - between 2 flight levels or above a level selecting from
+
+* tables of cruising levels; or
+* a modified table of clruising levels, when prescribed, for flights above FL410;
+* except when otherwise indicated in ATC clearances or specified by appropriate ATS authority in AIP.
+
+RULES APPLICABLE TO IFR OUTSIDE CONTROLLED AIRSPACE
+
+Cruising Levels    
+IFR operating in level cruising outside of controlled airspace shall be flown at cruising level appropriate to its track as specified in 
+
+* tables of cruising levels, except when otherwise specified by the appropriate ATS authority for flight at or below 900m/300ft above MSL; or
+* a modified table of cruising levels for flights above FL410.
+
+COMMUNICATIONS
+
+IFR outside controlled airspace but within areas or routes requiring FIS, Alerting and SAR, or coordination civ/mil to avoid interception & support identification, shall maintain air-ground voice communication watch on the appropriate communication channel and establish 2-way communication - as necessary - with ATS unit providing FIS.
+
+POSITION REPORTS
+
+IFR outside controlled airspace and required by appropriate ATS authority shall
+
+* submit flight plan
+* maintain air-ground voice communication watch on appropriate channel and establish 2-way communication with ATSU providing FIS
+
+Unless exempted, a controlled flight shall report time and level of passing each designated compulsory reporting point together with any other required information.    
+Position reports shall similarly made in relation to additional points when requested by the ATSU.    
+In the absence of designated reporting points, position reports shall be made at intervals prescribed by appropriate ATS authority or specified by ATSU.    
+Controlled flights providing position reports to appropriate ATSU by data link shall only provide voice positio reports when requested.
+
+
+TO-Do - cruising level tables
+
+### Interception of Civil Aircraft
+
+When intercepted, pilot in command shall comply with the appropriate standards, interpreting and responding to visual signals as specified.
+
+PRINCIPLES TO BE OBSERVED BY STATES
+
+* interception of civil aircraft will be undertaken only as a last resort;
+* interception limited to determining the identity of the aircraft, unless it is necessary to return the aircraft to its planned track, direct it beyond boundaries of national airspace, guide it away from a prohibited, restricted, or danger area, or instruct it to effect a landing at a designated aerodrome;
+* practice interception of civil aircraft will not be undertaken;
+* navigational guidance and related informatio will be given to an intercepted aircraft by RT whenever radio contact can be established; and
+* in case where an intercepted civil aircraft is required to land in the territory overflown, the aerodrome designated for the landing is suitable for the safe landing of the airfraft type concerned.
+
+ACTION BY INTERCEPTED AIRCRAFT
+
+aircraft intercepted by another aircraft shall immediately
+
+* follow the instructions given by the intercepting aircraft, interpreting and responding to the visual signals;
+* notify - if possible - the appropriate ATSU
+* attempt to establish radio communication with the intercepting aircraft or with the appropriate intercept control unit, by making a general call on the emergency frequency 121,5 MHz, giving the identity of the intercepted aircraft and the nature of the flight, and - if no contact has been established and if practible - repeating this call on the emergency frequence 243 MHz;
+* if equipped with SSR, select mode A, Code 7700, unless otherwise instructed by ATSY.
+
+If RT instructions conflict with signals from intercepting aricraft by visual signs, request clarification while complying with visual instructions.
+
+If RT instructions conflict with those given by intercepting aircraft, request clarification while comply with instructions from intercepting aircraft.
+
+
+TODO CHECK SIGNAL AND PHRASEOLOGY
+
+
+UNLAWFUL INTERFERENCE
+
+Unless situation dictates otherwise, attempt to continue flying assigned track and level until able to notify ATS unit
+
+If forced to deviate without being able to contact ATS
+
+* attempt to broadcast warnings on VHF emergency frequency or appropriate, unless situation prohibits
+* follow specific procedure established and promulgated in Regional Supplemental Procedures; or
+* no applicable procedures are established, contine with a level different from cruising leven under IFR by
+  + 150m/500ft where vertical sep minima 300m/1000ft
+  + 300m/1000ft were 600m/2000ft
+
+
+
+# Air Traffic Control - Services and Management
+
+Air traffic service is a generic terms meaning variously
+
+* air traffic control service;
+* air traffic advisory service;
+* flight information service;
+* alerting service
+
+An air traffic control service is provided for the purpose of
+
+* preventing collisions between aircraft in the air
+* assisting  in  preventing  collisions  between  aircraft  moving  on  the  apron  and the manoeuvring area
+* assisting in preventing collisions between aircraft and obstructions on the manoeuvring area
+* expediting and maintaining an orderly flow of air traffic.
 
 
 
