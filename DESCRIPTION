@@ -1,6 +1,6 @@
-Package: placeholder
+Package: CBIR-EIR-notes
 Type: Book
-Title: Does not matter.
+Title: Notes of CBIR/EIR training.
 Version: 0.0.1
 Imports: bookdown
 Remotes: rstudio/bookdown

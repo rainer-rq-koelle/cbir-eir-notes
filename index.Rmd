@@ -8,14 +8,14 @@ documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: https://github.com/rainer-rq-koelle/cbir-eir-notes
 description: "Course notes from CBIR/EIR knowledge course. Typing stuff helps me to recall and learn."
 ---
 
 # Introductory Comments {-}
 
 These comments are typed up when recapping what I studied/read in the course material.   
-I do this primarily for myself as I tend to internalise what I have to "type the hard way".
+I do this primarily for myself as I tend to internalise what I have to by "typing it the hard way".
 
 There is no guarantee that these notes are correct, and/or updated at any point in time. 
 
