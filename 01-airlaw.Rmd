@@ -817,7 +817,7 @@ Under FIS the following conditions apply:
     other information pertinent to safety.
 
 -   controller may attempt to identify the flight for monitoring and
-    coordination purposes only. \
+    coordination purposes only.\
     Such identification does not imply that a radar service is being
     provided or that the controller will continuously monitor the
     flight.\
@@ -839,61 +839,75 @@ responsibility for its issuance at all times or for its accuracy.
 Classification of airspaces within a FIR determines the flight rules and
 minimum services.
 
-+-----+----------+-----------------------+-----------------------------+
-| Cl  | Flight   | Aircraft Requirements | Minimum Services by ATC     |
-| ass | Rules    |                       | Unit                        |
-+=====+==========+=======================+=============================+
-| A   | IFR only | -   ATC clearance     | separate all aircraft from  |
-|     |          |     before entry      | each other                  |
-|     |          |                       |                             |
-|     |          | -   comply with ATC   |                             |
-|     |          |     instructions      |                             |
-+-----+----------+-----------------------+-----------------------------+
-| B   | IFR and  | -   ATC clearance     | separate all aircraft from  |
-|     | VFR      |     before entry      | each other                  |
-|     |          |                       |                             |
-|     |          | -   comply with ATC   |                             |
-|     |          |     instructions      |                             |
-+-----+----------+-----------------------+-----------------------------+
-| C   | IFR and  | -   ATC clearance     | -   separate IFR from other |
-|     | VFR      |     before entry      |     IFR and VFR             |
-|     |          |                       |                             |
-|     |          | -   comply with ATC   | -   separate VFR from IFR   |
-|     |          |     instructions      |                             |
-|     |          |                       | -   pass traffic info to    |
-|     |          |                       |     VFR on other VFR and    |
-|     |          |                       |     give traffic avoidance  |
-|     |          |                       |     advice, if requested    |
-+-----+----------+-----------------------+-----------------------------+
-| D   | IFR and  | -   ATC clearance     | -   separate IFR from IFR   |
-|     | VFR      |     before entry      |                             |
-|     |          |                       | -   pass traffic info to    |
-|     |          | -   comply with ATC   |     IFR on VFR and give     |
-|     |          |     instructions      |     traffic avoidance       |
-|     |          |                       |     advice, if requested    |
-|     |          |                       |                             |
-|     |          |                       | -   pass traffic info to    |
-|     |          |                       |     VFR on IFR and other    |
-|     |          |                       |     VFR flights             |
-+-----+----------+-----------------------+-----------------------------+
-| E   | IFR and  | -   IFR flights       | -   separate IFR from IFR   |
-|     | VFR      |     clearance before  |                             |
-|     |          |     entry and comply  | -   pass traffic info as    |
-|     |          |     with ATC          |     far as practicable to   |
-|     |          |     instructions      |     IFR on VFR              |
-|     |          |                       |                             |
-|     |          | -   VFR flights do    | -   VFR flights in contact: |
-|     |          |     not require       |     traffic info as far as  |
-|     |          |     clearance         |     practicable             |
-+-----+----------+-----------------------+-----------------------------+
-| F   | IFR and  | participating IFR     | separate participating IFR  |
-|     | VFR      | flights are expected  | lights from each other      |
-|     |          | to comply with ATC    |                             |
-|     |          | instructions          |                             |
-+-----+----------+-----------------------+-----------------------------+
-| G   | IFR and  | non                   | none                        |
-|     | VFR      |                       |                             |
-+-----+----------+-----------------------+-----------------------------+
++--------+--------------+---------------------+---------------------+
+| Cl ass | Flight Rules | Aircraft            | Minimum Services by |
+|        |              | Requirements        | ATC Unit            |
++========+==============+=====================+=====================+
+| A      | IFR only     | -   ATC clearance   | separate all        |
+|        |              |     before entry    | aircraft from each  |
+|        |              |                     | other               |
+|        |              | -   comply with ATC |                     |
+|        |              |     instructions    |                     |
++--------+--------------+---------------------+---------------------+
+| B      | IFR and VFR  | -   ATC clearance   | separate all        |
+|        |              |     before entry    | aircraft from each  |
+|        |              |                     | other               |
+|        |              | -   comply with ATC |                     |
+|        |              |     instructions    |                     |
++--------+--------------+---------------------+---------------------+
+| C      | IFR and VFR  | -   ATC clearance   | -   separate IFR    |
+|        |              |     before entry    |     from other IFR  |
+|        |              |                     |     and VFR         |
+|        |              | -   comply with ATC |                     |
+|        |              |     instructions    | -   separate VFR    |
+|        |              |                     |     from IFR        |
+|        |              |                     |                     |
+|        |              |                     | -   pass traffic    |
+|        |              |                     |     info to VFR on  |
+|        |              |                     |     other VFR and   |
+|        |              |                     |     give traffic    |
+|        |              |                     |     avoidance       |
+|        |              |                     |     advice, if      |
+|        |              |                     |     requested       |
++--------+--------------+---------------------+---------------------+
+| D      | IFR and VFR  | -   ATC clearance   | -   separate IFR    |
+|        |              |     before entry    |     from IFR        |
+|        |              |                     |                     |
+|        |              | -   comply with ATC | -   pass traffic    |
+|        |              |     instructions    |     info to IFR on  |
+|        |              |                     |     VFR and give    |
+|        |              |                     |     traffic         |
+|        |              |                     |     avoidance       |
+|        |              |                     |     advice, if      |
+|        |              |                     |     requested       |
+|        |              |                     |                     |
+|        |              |                     | -   pass traffic    |
+|        |              |                     |     info to VFR on  |
+|        |              |                     |     IFR and other   |
+|        |              |                     |     VFR flights     |
++--------+--------------+---------------------+---------------------+
+| E      | IFR and VFR  | -   IFR flights     | -   separate IFR    |
+|        |              |     clearance       |     from IFR        |
+|        |              |     before entry    |                     |
+|        |              |     and comply with | -   pass traffic    |
+|        |              |     ATC             |     info as far as  |
+|        |              |     instructions    |     practicable to  |
+|        |              |                     |     IFR on VFR      |
+|        |              | -   VFR flights do  |                     |
+|        |              |     not require     | -   VFR flights in  |
+|        |              |     clearance       |     contact:        |
+|        |              |                     |     traffic info as |
+|        |              |                     |     far as          |
+|        |              |                     |     practicable     |
++--------+--------------+---------------------+---------------------+
+| F      | IFR and VFR  | participating IFR   | separate            |
+|        |              | flights are         | participating IFR   |
+|        |              | expected to comply  | lights from each    |
+|        |              | with ATC            | other               |
+|        |              | instructions        |                     |
++--------+--------------+---------------------+---------------------+
+| G      | IFR and VFR  | non                 | none                |
++--------+--------------+---------------------+---------------------+
 
 : airspace classes
 
@@ -965,7 +979,7 @@ Controllers are to provide air traffic control service to aircraft
 within an aerodrome traffic zone and to aircraft under their
 jurisdiction in the vicinity of the aerodrome.
 
-### Special VFR 
+### Special VFR
 
 Special VFR when requested by pilot or when it is notified in the AIP
 for a particular type of operatoin. Before issuing such a clearance a
@@ -1066,6 +1080,183 @@ identified by the name of the unit having jurisdiction over the
 airspace.
 
 ## Air Traffic Route Structure
+
+TO BE CONTINUED - FILLED IN
+
+# Volume 2
+
+## Airworthiness
+
+The Airworthiness standards of Annex 8 of the Chicago Convention are
+related to the Standards of Annex 6, Part I dealing with aeroplane
+performance operating limitations.
+
+An element of the safety of an operation is the instrinsic safety of the
+aircraft. That is the level of its airworthiness. The level of
+airworthiness of an aircraft is not fully defined by the application of
+the Airworthiness Standards of Annex 8, but also requires the
+application of the Standards of Annex 6. We can say that Annex 8 deals
+with airworthiness from the engineering point of view, whereas Annex 6
+deals with the safety standards necessary for any operation.
+
+The Standards of Airworthiness, detailed in Annex 8 Part 3 are
+applicable to aeroplanes with a MTOM of more than 5.700kg and which are
+intended for the transport of passengers, cargo or mail in international
+air transport. Unless specifically exempted, the standards apply to the
+complete aeroplane including power units, systems and equipment.
+
+For European Union: EASA has established applicable airworthiness
+standards.
+
+diagram of regulation/airworthiness organisation
+
+## Certificate of Airworthiness - ICAO Annex 8 Chapter 3
+
+issued by the State of registration when satisfactory evidence is
+provided that the aeroplane complies with the appropriate airworthiness
+requirements.
+
+aircraft with valid CA of another state register of another state, the
+new state of registry may consider CA as evidence in whole or in part
+when issuing another CA or rendering original CA valid
+
+validity of authorisation shall not be extended beyond validity of CA
+(?) (what authorisation?)
+
+Standard Form (ICAO)
+
+-   nationality and registration marks
+
+-   manufacturer and manufacturer's designation of aircraft
+
+-   aircraft serial number
+
+-   categories (?)
+
+-   date/signature
+
+-   (periodic endoresement)
+
+## Continuing Airworthiness - ICAO Annex 8 Chapter 4
+
+The state of registry is responsible for determining if an aircraft
+continues to be airworthy. The state is required to maintain a system
+for recording faults, malfunctions, defects or other occurrences which
+might affect the airworthiness of aircraft of more than 5.700kg MTOM.
+
+The State of Registry shall ensure that in respect of aeroplanes of over
+5.700 kg and helicopters over 3.180 kg maximum certificated take-off
+mass, there exists a system whereby information on faults, malfunctions,
+defects and other occurrences that cause or might cause adverse effects
+on the continuing airworthiness of the aircraft is transmitted to the
+organization responsible for the type design of that aircraft.
+
+The State of Design shall ensure that in respect of aeroplanes over 5
+700 kg maximum certificated take-off mass, there exists a continuing
+structural integrity programme to ensure the airworthiness of the
+aeroplane. The programme shall include specific information concerning
+corrosion prevention and control
+
+The State of Design of an aircraft shall transmit any generally
+applicable information which it has found necessary for the continuing
+airworthiness of the aircraft and for the safe operation of the aircraft
+to to every Contracting State which has advised the State of Design that
+it has entered the aircraft on its register.
+
+Each Contracting State shall establish, in respect of aeroplanes over
+5.700 kg and helicopters over 3.180 kg maximum certificated take-off
+mass, the type of service information that is to be reported to its
+airworthiness authority by operators, organizations responsible for type
+design and maintenance organizations. Procedures for reporting this
+information shall also be established.
+
+## Validity of Airworthiness Certificate
+
+CA will be renewed or remain valid provided that continued airworthiness
+has been determined by periodic inspection.
+
+Inspection period dependent on service, elapsed period and system
+established by State.
+
+Damaged aircraft: state of registry to judge whether damage impair
+airworthiness (no longer airworthy).
+
+## Aircraft limitations and information
+
+Each aircraft is required to have a flight manual or other means in
+which the approved limitations are defined and additional information is
+contained necessary for the safe operation of the aeroplane.
+
+## Aircraft Nationality and Registration Marks
+
+ICAO Paris Convention 1919 requires all aircraft to be registered and
+carry nationality mark and registration mark.
+
+Annex 7 of Chicago Convention: aircraft nationality and registration
+marks. = standards (no recommendation == MUST).
+
+Exemption from registration may be granted temporarily from the
+appropriate authority for test flying or historic aircraft.
+
+The nationality or common mark and registration mark shall consist of a
+group of characters. The nationality or common mark shall precede the
+registration mark. When the first character of the registration mark is
+a letter it shall be preceded by a hyphen.
+
+D-EAIP, OO-JMC
+
+registration marks shall not use letters: 5 letter combinations used in
+International Code of Signals, Part II (? never heard of this), 3-letter
+Q-codes, distress signal SOS, other urgency signals, e.g. XXX, PAN, TTT.
+
+Registration & nationality marks = painted on aircraft of affixed by
+other means ensuring permanence. Marks shall be kept clean and visible
+at all times.
+
+## Register of Nationality, Common and Registration Marks
+
+Each Contracting State or common mark registering authority shall
+maintain a current register showing for each aircraft registered by that
+State or common mark registering authority, the information recorded in
+the certificate of registration.
+
+The register of unmanned free balloons shall contain the date, time and
+location of release, the type of balloon and the name of the operator.
+
+## Certificate of Registration
+
+The Nationality or Common mark
+
+The registration mark
+
+The manufacturer's designation of the aircraft
+
+The serial number of the aircraft
+
+The name and address of the owner
+
+A certificate that it has been entered on the register of the State
+
+The dated signature of the registering officer
+
+The certificate is to be carried in the aircraft at all times
+
+## Identification Plate
+
+An aircraft shall carry an identification plate inscribed with at least
+its nationality or common mark and registration mark.
+
+fireproof/fireproofed material, affixed in prominent place/near
+entrance;
+
+in case of unmanned free balloon affixed conspicuously to the exterior
+of the payload.
+
+## Classification of aircraft
+
+```{r}
+knitr::include_graphics("./figures/ICAO-Classification-of-aircraft.jpg")
+```
 
 BOOKDOWN EXAMPLE FOR ADDING CITATIONS\
 You can write citations, too. For example, we are using the **bookdown**
