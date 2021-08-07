@@ -38,6 +38,17 @@ uir-upper-control-areas
 ctrs
 identification
 air-traffic-route-structure
+volume-2
+airworthiness
+certificate-of-airworthiness---icao-annex-8-chapter-3
+continuing-airworthiness---icao-annex-8-chapter-4
+validity-of-airworthiness-certificate
+aircraft-limitations-and-information
+aircraft-nationality-and-registration-marks
+register-of-nationality-common-and-registration-marks
+certificate-of-registration
+identification-plate
+classification-of-aircraft
 literature
 methods
 applications
