@@ -49,6 +49,11 @@ register-of-nationality-common-and-registration-marks
 certificate-of-registration
 identification-plate
 classification-of-aircraft
+aerodromes
+distances
+runway
+signals-1
+signalling-lamp---light-gun
 literature
 methods
 applications
