@@ -1258,6 +1258,91 @@ of the payload.
 knitr::include_graphics("./figures/ICAO-Classification-of-aircraft.jpg")
 ```
 
+# Aerodromes
+
+ICAO Annex 14
+
+All aerodromes have a movement area, a maneuvering area and an apron.
+
+Controlled aerodromes must have a control tower which has a visual room.
+
+If the aerodrome accepts non-radio traffic, there must be a signals area
+laid on the ground, which has to be visible from the air.
+
+Apron
+
+A defined area on a land aerodrome provided for the stationing of
+aircraft for the embarkation and disembarkation of passengers, the
+loading and unloading of cargo and for parking.
+
+Manoeuvring area
+
+That part of an aerodrome provided for the take-off and landing of
+aircraft and for the movement of aircraft on the surface, excluding the
+apron and any part of the aerodrome provided for the maintenance of
+aircraft.
+
+Movement area
+
+That part of an aerodrome intended for the surface movement of aircraft
+including the manoeuvring area, aprons and any part of the aerodrome
+provided for the maintenance of aircraft.
+
+Visibility
+
+The ability, as determined by atmospheric conditions and expressed in
+units of distance, to see and identify prominent unlit objects by day
+and prominent lit objects by night.
+
+ACN - PCN
+
+### Distances
+
+(i) take off run available (TORA);
+
+(ii) take off distance available (TODA);
+
+(iii) accelerate-stop distance available (ASDA);
+
+(iv) landing distance available (LDA);
+
+Take-off distance available (TODA) is defined as the distance available
+to an aeroplane for completion of its ground run, lift-off and initial
+climb to 35 ft. This will normally be the full length of the runway plus
+the length of any CWY
+
+TODA = TORA + CWY
+
+Accelerate-stop distance available (ASDA) is defined as the length of
+the take-off run available plus the length of any SWY. Any CWY is not
+involved.
+
+ASDA = TORA + SWY
+
+Landing distance available (LDA) is defined as the length of runway
+available for the ground run of a landing aeroplane. The LDA commences
+at the runway threshold. Neither SWY nor CWY are involved.
+
+LDA = Length of RWY (if threshold is not displaced.)
+
+```{r}
+knitr::include_graphics("./figures/Declared_Distances.jpg")
+```
+
+TORA and TODA calculation from taxiway intersections, "backcorner"
+
+### Runway
+
+runway condition & contamination
+
+runway and taxiway dimensions many tables and aerodrome codes :(
+
+### Signals
+
+standard signals/signalling area
+
+### Signalling Lamp - Light Gun
+
 BOOKDOWN EXAMPLE FOR ADDING CITATIONS\
 You can write citations, too. For example, we are using the **bookdown**
 package [@R-bookdown] in this sample book, which was built on top of R
