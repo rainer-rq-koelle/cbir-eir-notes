@@ -343,3 +343,44 @@ specified limits of speed, power, configuration, and displacement at
 speficied heights designed to ensure the stability of the approach path
 and a requirement for an immediate go-around, if these requirements are
 not met.
+
+Approach procedure design - check again many values (:()
+
+## Protected Areas
+
+A defined area symmetrically disposed about the nominal flight track in
+which full obstacle clearance is provided (ICAO). When track guidance is
+provided in the design of an instrument approach procedure, each of the
+five segments of the approach constitutes a specified volume of
+airspace, the vertical cross section of which is an area symmetrically
+about the centerline of each segment. The vertical cross section is
+broken down into a primary and secondary areas. At any point, the width
+of the primary area is equal to one-half of the total width. The width
+of each [secondary
+area](https://encyclopedia2.thefreedictionary.com/secondary+area) is
+equal to one-quarter of the total width. Where no track guidance is
+provided during a turn specified by the procedure, the total width of
+the area is considered the primary area
+
+```{r}
+knitr::include_graphics("./figures/moc-protected-area.jpg")
+```
+
+## Accuracy of fixes
+
+Fixes are based on standard navigation procedures. Due to accuracy
+limitations, fixes not precise geographic position, but within an area
+called **fix tolerance area**.
+
+Dimensions of the fix tolerance area determined by system use accuracy
+of the navigation aid(s) on which the fix is based, and the distance
+from the navaid.
+
+System use accuracy is based on a root sum square calculation using the
+following tolerances:
+
+-   ground system clearance
+
+-   airborne receiving system tolerance,
+
+-   flight technical tolerance.
