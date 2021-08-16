@@ -64,6 +64,8 @@ instrument-approach-procedures
 categories-of-aircraft
 minimum-sector-altitudes
 obstacle-clearance
+protected-areas
+accuracy-of-fixes
 literature
 methods
 applications
